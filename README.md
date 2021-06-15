@@ -1,0 +1,2 @@
+# study-deno
+deno study
